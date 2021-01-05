@@ -60,5 +60,5 @@
 [twitter]: https://twitter.com/merjashourov
 [youtube]: https://www.youtube.com/channel/UCYirl1fvDjb3euzE0yHsFKw
 [instagram]: https://instagram.com/merjashourov
-[linkedin]: https://linkedin.com/in/merjashourov
+[linkedin]: https://https://www.linkedin.com/in/merja-shourov-72578816b/
 [sass]: https://sass-lang.com/
