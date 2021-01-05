@@ -58,7 +58,7 @@
 ---
 [website]: https://merjashourov.wpdevlopers.com
 [twitter]: https://twitter.com/merjashourov
-[youtube]: https://youtube.com/merjashourov
+[youtube]: https://www.youtube.com/channel/UCYirl1fvDjb3euzE0yHsFKw
 [instagram]: https://instagram.com/merjashourov
 [linkedin]: https://linkedin.com/in/merjashourov
 [sass]: https://sass-lang.com/
