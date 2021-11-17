@@ -56,7 +56,7 @@
 <br />
 
 ---
-[website]: https://merjashourov.wpdevlopers.com
+[website]: https://merjashourov.merjashourov.com
 [twitter]: https://twitter.com/merjashourov
 [youtube]: https://www.youtube.com/channel/UCYirl1fvDjb3euzE0yHsFKw
 [instagram]: https://instagram.com/merjashourov
