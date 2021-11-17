@@ -1,4 +1,4 @@
-### Hi there, I'm Merja Shourov - [Merja Shourov][website] 👋
+### Hi there, I'm [Merja Shourov][website]
 
 ## I'm a student, Developer, and Self-Teacher!!
 
