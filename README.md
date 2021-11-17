@@ -2,9 +2,9 @@
 
 ## I'm a student, Developer, and Self-Teacher!!
 
-- 🔭 I just leared my first course: Wordpress Developer !!
-- 🌱 I’m currently learning JavaScript. 🤣
-- 👯 I’m looking to collaborate with other content creators.
+- 🔭 I just leared my first 2  course: WordPress & E-Commerce Development || Website Design ( Html, CSS, Bootstrap, JavaSCript, jQuery, SASS ) !!
+- 🌱 I’m currently learning MERN Stack Development with JavaScript. 🤣
+- 👯 I’m looking to collaborate with other Programming Project
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play Badminton.
 
