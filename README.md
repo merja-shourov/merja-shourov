@@ -1,4 +1,4 @@
-### Hi there, I'm Merja Shourov - [Merja_Shourov][website] 👋
+### Hi there, I'm Merja Shourov - [Merja Shourov][website] 👋
 
 ## I'm a student, Developer, and Self-Teacher!!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Merja_Shourov.wpdevlopers.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Merjashourov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Merja_Shourov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Merja_Shourov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
