@@ -2,9 +2,9 @@
 
 ## I'm a student, Developer, and Self-Teacher!!
 
-- 🔭 I just leared my first 2  course: WordPress & E-Commerce Development || Website Design ( Html, CSS, Bootstrap, JavaSCript, jQuery, SASS ) !!
-- 🌱 I’m currently learning MERN Stack Development with JavaScript. 🤣
-- 👯 I’m looking to collaborate with other Programming Project
+- 🔭 I just leared my first 2 course: 1. Responsive Website Design ( 2019) 2.WordPress & E-Commerce Expert ( 2020 ) !!
+- 🌱 I’m currently learning MERN Stack Development with JavaScript.( 2021 )🤣
+- 👯 I’m looking to collaborate with other Programming / JavaScript / C++ Project 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play Badminton.
 
@@ -16,6 +16,7 @@
 [<img align="left" alt="Merja_Shourov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Merja_Shourov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Merja_Shourov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Merja_Shourov | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][facebook]
 
 <br />
 
