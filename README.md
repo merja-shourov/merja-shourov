@@ -18,7 +18,7 @@
 [<img align="left" alt="Merja_Shourov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raddit.svg" />][raddit]
-[<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverlfow.svg" />][stackoverflow]
+[<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][sololearn]
 
 
