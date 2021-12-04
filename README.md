@@ -19,7 +19,7 @@
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][sololearn]
+[<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />][freecodecamp]
 
 
 <br />
