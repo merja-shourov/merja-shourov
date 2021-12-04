@@ -20,6 +20,7 @@
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />][freecodecamp]
+[<img align="left" alt="Merja_Shourov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
 
 
 <br />
@@ -68,3 +69,8 @@
 [linkedin]: https://https://www.linkedin.com/in/merjashourov/
 [facebook]: https://www.facebook.com/merjashourov
 [sass]: https://sass-lang.com/
+[behance]: https://www.behance.ocm/merja_shourov
+[reddit]: https://www.reddit.com/user/merja_shourov
+[stackoverflow]: https://stackoverflow.com/users/13486391/merja-shourov
+[blogger]: https://merjashourov.blogspot.com/
+
