@@ -1,6 +1,6 @@
 ### Hi there, I'm [Merja Shourov][website]
 
-## I'm a student, Developer, and Self-Teacher!!
+## I'm a Full Stack Web Developer|| JavaScript Developer || WordPress Expert!!
 
 - 🔭 I just leared my first 2 course: 1. Responsive Website Design ( 2019) 2.WordPress & E-Commerce Expert ( 2020 ) !!
 - 🌱 I’m currently learning MERN Stack Development with JavaScript.( 2021 )🤣
