@@ -5,7 +5,7 @@
 - 🔭 I just leared my first 2 course: 1. Responsive Website Design ( 2019) 2.WordPress & E-Commerce Expert ( 2020 ) !!
 - 🌱 I’m currently learning MERN Stack Development with JavaScript.( 2021 )🤣
 - 👯 I’m looking to collaborate with other Programming / JavaScript / C++ Project 
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source JavaScript projects.
 - ⚡ Fun fact: I love to draw and play Badminton.
 
 
