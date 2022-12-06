@@ -2,10 +2,10 @@
 
 ## I'm a Front-End Developer ( React ) || JavaScript Developer || WordPress Expert!!
 
-- 🔭 I just leared my first 2 course: 1. Responsive Website Design ( 2019) 2.WordPress & E-Commerce Expert ( 2020 ) !!
-- 🌱 I’m currently learning MERN Stack Development with JavaScript.( 2021 )🤣
+- 🔭 I just leared my first 2 course: 1. Responsive Website Design ( 2019) 2.WordPress Website Development !!
+- 🌱 I’m currently learning MERN Stack Development
 - 👯 I’m looking to collaborate with other Programming / JavaScript / C++ Project 
-- 🥅 2022 Goals: Contribute more to Open Source JavaScript projects.
+- 🥅 Goals: Contribute more to Open Source JavaScript projects.
 - ⚡ Fun fact: I love to draw and play Badminton.
 
 
