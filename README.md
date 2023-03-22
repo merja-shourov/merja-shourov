@@ -1,6 +1,6 @@
 ## JavaScript Developer!
 
-I love to draw and play Badminton.
+I love to play badminton 🏸
 
 ### Connect with me:
 
