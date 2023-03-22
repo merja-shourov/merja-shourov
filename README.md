@@ -1,9 +1,6 @@
-### Hi there, I'm [Merja Shourov][website]
-
 ## JavaScript Developer!
 
-- ⚡ Fun fact: I love to draw and play Badminton.
-
+I love to draw and play Badminton.
 
 ### Connect with me:
 
