@@ -1,6 +1,4 @@
-## JavaScript Developer !
-
-I love to play badminton 🏸
+## Competitive Programmer!
 
 ### Connect with me:
 
