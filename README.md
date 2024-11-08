@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Merja Shourov</h1>
-<h3 align="center">A passionate full-stack developer & Competitive Programmer!</h3>
+<h1>Hi 👋, I'm Merja Shourov</h1>
+<h3>A passionate full-stack developer & Competitive Programmer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merja-shourov&label=Profile%20views&color=0e75b6&style=flat" alt="merja-shourov" /> </p>
 
-- 🔭 I’m currently working on [e-commerce website](#)
-
 - 🌱 I’m currently learning **Java**
-
 - 📝 I regularly write articles on [merjashourov.tumblr.com](merjashourov.tumblr.com)
-
-- 💬 Ask me about **react, nade, mangodb**
-
 - 📫 How to reach me **merjashourov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,8 +12,8 @@
 <a href="https://linkedin.com/in/merjashourov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merjashourov" height="30" width="40" /></a>
 <a href="https://fb.com/merjashourov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="merjashourov" height="30" width="40" /></a>
 <a href="https://instagram.com/merja_shourov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="merja_shourov" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/merjashourov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="merjashourov" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/merjashourov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="merjashourov" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/merja-shourov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="merjashourov" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/merja_shourov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="merjashourov" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/merja_shourov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="merja_shourov" height="30" width="40" /></a>
 </p>
 
