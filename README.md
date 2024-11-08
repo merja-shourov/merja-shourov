@@ -1,2 +1,2 @@
-## Full Stack Developer & Competitive Programmer !
+## Full Stack Developer || Competitive Programmer !
 
