@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merja-shourov&label=Profile%20views&color=0e75b6&style=flat" alt="merja-shourov" /> </p>
 
 - I’m currently learning **DSA**
-- I regularly write articles on [merjashourov.tumblr.com](merjashourov.tumblr.com)
 - How to reach me **merjashourov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
