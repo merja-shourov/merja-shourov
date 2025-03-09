@@ -1,4 +1,4 @@
-<h1>Full-Stack Developer || Competitive Programmer || Web3 </h1>
+<h1>Full-Stack Developer || Web3 Enthusiast  </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merja-shourov&label=Profile%20views&color=0e75b6&style=flat" alt="merja-shourov" /> </p>
 
